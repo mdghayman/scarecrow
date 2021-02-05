@@ -1,5 +1,5 @@
 # Scarecrow
-Low code web development for data science
+Scarecrow offers low code web development for data science.
 
 ## Introduction
 Existing web development platforms don't offer what the data science community needs:
@@ -9,3 +9,5 @@ Scarecrow offers a fully customisationbale framework for building data science a
 
 ## Team
 Scarecrow was established by Michael Hayman, who is fully responsible for its development and maintenance. If you would like to contribute to Scarecrow, please email mdghayman@gmail.com to share your proposal and your background.
+
+© Copyright 2021, by Michael Hayman.
