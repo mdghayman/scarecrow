@@ -8,4 +8,4 @@ Existing web development platforms don't offer what the data science community n
 Scarecrow offers a fully customisationbale framework for building data science apps, which works out of the box and will be free forever.
 
 ## Team
-Scarecrow was established by Michael Hayman, who is fully responsible for its development and maintenance. If you would like to contribute to Scarecrow, please email mdghayman@gmail.com with to share your proposal and your background.
+Scarecrow was established by Michael Hayman, who is fully responsible for its development and maintenance. If you would like to contribute to Scarecrow, please email mdghayman@gmail.com to share your proposal and your background.
