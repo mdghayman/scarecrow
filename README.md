@@ -1,4 +1,4 @@
-# Scarecrow Data v0.0.1
+# Scarecrow
 Scarecrow offers low code web development for data science
 
 ## Introduction
