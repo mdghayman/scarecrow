@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setuptools.setup(
     name = 'scarecrow_data',
-    version = '0.0.2',
+    version = '0.0.4',
     author = 'Michael Hayman',
     author_email = 'mdghayman@gmail.com',
     description = 'Scarecrow offers low code web development for data science.',
